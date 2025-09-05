@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=itmanvn&abbreviated=false)
 ![](https://hit.yhype.me/github/profile?account_id=103136)
 
 <!--
